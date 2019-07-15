@@ -1,0 +1,26 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<hudson.model.UserIdMapper>
+  <version>1</version>
+  <idToDirectoryNameMap class="concurrent-hash-map">
+    <entry>
+      <string>vinayvinc</string>
+      <string>vinayvinc_8020253848007336184</string>
+    </entry>
+    <entry>
+      <string>vinay</string>
+      <string>vinay_1211171866573671080</string>
+    </entry>
+    <entry>
+      <string>service_user</string>
+      <string>serviceuser_3834264479141528867</string>
+    </entry>
+    <entry>
+      <string>noreply</string>
+      <string>noreply_7175312474365699904</string>
+    </entry>
+    <entry>
+      <string>vincupsc</string>
+      <string>vincupsc_2897491664081976849</string>
+    </entry>
+  </idToDirectoryNameMap>
+</hudson.model.UserIdMapper>

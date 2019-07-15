@@ -1,0 +1,11 @@
+Started on Jul 13, 2019 5:18:00 PM
+Using strategy: Default
+[poll] Last Built Revision: Revision ed9644a58cfcc592e1e01e8619be316c50faaf0e (refs/remotes/origin/master)
+using credential 4cbf2f63-18c8-429d-b296-379d2d88f5d7
+ > git --version # timeout=10
+using GIT_ASKPASS to set credentials 
+ > git ls-remote -h https://github.com/vinaykumarsrs/gh_cen.git # timeout=10
+Found 1 remote heads on https://github.com/vinaykumarsrs/gh_cen.git
+[poll] Latest remote head revision on refs/heads/master is: a345a040d03d676e7ceec2503cd76473a730844c
+Done. Took 0.93 sec
+Changes found

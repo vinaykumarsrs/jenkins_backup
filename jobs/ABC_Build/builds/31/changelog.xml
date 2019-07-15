@@ -1,0 +1,22 @@
+commit 3b6f40c859814ae8d2627e6aa2f260c99e96677b
+tree 9640a4c04e4da1d12fbfa437631e4b2cd484076e
+parent ebd9058d6d9835f28e364f2de4316da6978b2481
+author vinaykumarsrs <52619158+vinaykumarsrs@users.noreply.github.com> 2019-07-14 13:25:21 +0530
+committer GitHub <noreply@github.com> 2019-07-14 13:25:21 +0530
+
+    Delete trig
+
+
+
+:100644 000000 89d999ce414453da36afbfe5a9be3c70f4f474d6 0000000000000000000000000000000000000000 D	trig
+commit ebd9058d6d9835f28e364f2de4316da6978b2481
+tree 0f88edd511a2799adfd658d994a3da2c6725255d
+parent 19e302c23021c4adc20fe2b5d1bac9e38d8cff11
+author vinaykumarsrs <52619158+vinaykumarsrs@users.noreply.github.com> 2019-07-14 13:25:15 +0530
+committer GitHub <noreply@github.com> 2019-07-14 13:25:15 +0530
+
+    Delete makefile
+
+
+
+:100644 000000 ef345c1a5569c79289698b33d23c9cfd5cc1edb1 0000000000000000000000000000000000000000 D	makefile

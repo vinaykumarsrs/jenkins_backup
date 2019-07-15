@@ -1,0 +1,11 @@
+commit 7aa4d9269949ae9ee7abdee0c88d3c43cd14c796
+tree 481ba5416e8f3c51b69cdd23d10a617cb5bd3d10
+parent 6317a8d81b2c77ae9de642873d1a6062c1d9a035
+author vinaykumarsrs <52619158+vinaykumarsrs@users.noreply.github.com> 2019-07-14 13:24:27 +0530
+committer GitHub <noreply@github.com> 2019-07-14 13:24:27 +0530
+
+    Delete trigger
+
+
+
+:100644 000000 5a73da1049823d5946c2e1aa378294dff8682dd3 0000000000000000000000000000000000000000 D	trigger

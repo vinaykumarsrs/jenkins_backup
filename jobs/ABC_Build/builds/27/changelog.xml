@@ -1,0 +1,11 @@
+commit 6317a8d81b2c77ae9de642873d1a6062c1d9a035
+tree 19f1626d77b998f9b087dc355d2e7afa5a7858af
+parent 802f50ecbaf16540f76699c197b289c48e1af6f8
+author vinaykumarsrs <52619158+vinaykumarsrs@users.noreply.github.com> 2019-07-14 13:23:10 +0530
+committer GitHub <noreply@github.com> 2019-07-14 13:23:10 +0530
+
+    Delete catfile
+
+
+
+:100644 000000 d345da7336621ecef853e36f2408f4d2df33fa73 0000000000000000000000000000000000000000 D	catfile

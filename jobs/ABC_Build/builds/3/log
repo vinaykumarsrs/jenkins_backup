@@ -1,0 +1,38 @@
+Started by user [8mha:////4Dt+axhul9HM3CFygIvidVImkMF+heKaUFKjSkvBslb3AAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZ+/dLi1CL9ssy8xEogkQwAihtfmsQAAAA=[0mvinayvinc
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/ABC makebuilder
+using credential 4cbf2f63-18c8-429d-b296-379d2d88f5d7
+ > git rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/vinaykumarsrs/gh_cen.git # timeout=10
+Fetching upstream changes from https://github.com/vinaykumarsrs/gh_cen.git
+ > git --version # timeout=10
+using GIT_ASKPASS to set credentials 
+ > git fetch --tags --progress https://github.com/vinaykumarsrs/gh_cen.git +refs/heads/*:refs/remotes/origin/*
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+Checking out Revision 26bcc2ea4b351951ca14d03933d2300cbb42837d (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 26bcc2ea4b351951ca14d03933d2300cbb42837d
+Commit message: "committing makefile contents"
+ > git rev-list --no-walk 26bcc2ea4b351951ca14d03933d2300cbb42837d # timeout=10
+[ABC makebuilder] $ /bin/sh -xe /tmp/jenkins293782878115653250.sh
++ pwd
+/var/lib/jenkins/workspace/ABC makebuilder
++ ls
+ABC.exe
+bigg3.c
+fact.c
+main
+main.c
+makefile
++ make
+gcc main.c bigg3.c fact.c -o ABC.exe
++ ls
+ABC.exe
+bigg3.c
+fact.c
+main
+main.c
+makefile
+Finished: SUCCESS

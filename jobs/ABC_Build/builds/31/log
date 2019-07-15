@@ -1,0 +1,24 @@
+Started by GitHub push by vinaykumarsrs
+Started by GitHub push by vinaykumarsrs
+Running as SYSTEM
+Building on master in workspace /var/lib/jenkins/workspace/ABC_Build
+using credential 4cbf2f63-18c8-429d-b296-379d2d88f5d7
+ > git rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/vinaykumarsrs/gh_cen.git # timeout=10
+Fetching upstream changes from https://github.com/vinaykumarsrs/gh_cen.git
+ > git --version # timeout=10
+using GIT_ASKPASS to set credentials 
+ > git fetch --tags --progress https://github.com/vinaykumarsrs/gh_cen.git +refs/heads/*:refs/remotes/origin/*
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+Checking out Revision 3b6f40c859814ae8d2627e6aa2f260c99e96677b (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 3b6f40c859814ae8d2627e6aa2f260c99e96677b
+Commit message: "Delete trig"
+ > git rev-list --no-walk 19e302c23021c4adc20fe2b5d1bac9e38d8cff11 # timeout=10
+[ABC_Build] $ /bin/sh -xe /tmp/jenkins6997460253643362858.sh
++ make
+make: *** No targets specified and no makefile found.  Stop.
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

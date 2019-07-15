@@ -1,0 +1,12 @@
+Started on Jul 14, 2019 7:54:28 AM
+Started by event from 140.82.115.71 ⇒ http://13.233.168.222:8080/github-webhook/ on Sun Jul 14 07:54:28 UTC 2019
+Using strategy: Default
+[poll] Last Built Revision: Revision 6317a8d81b2c77ae9de642873d1a6062c1d9a035 (refs/remotes/origin/master)
+using credential 4cbf2f63-18c8-429d-b296-379d2d88f5d7
+ > git --version # timeout=10
+using GIT_ASKPASS to set credentials 
+ > git ls-remote -h https://github.com/vinaykumarsrs/gh_cen.git # timeout=10
+Found 1 remote heads on https://github.com/vinaykumarsrs/gh_cen.git
+[poll] Latest remote head revision on refs/heads/master is: 7aa4d9269949ae9ee7abdee0c88d3c43cd14c796
+Done. Took 0.94 sec
+Changes found

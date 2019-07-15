@@ -1,0 +1,31 @@
+Started by an SCM change
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/ABC makebuilder
+using credential 4cbf2f63-18c8-429d-b296-379d2d88f5d7
+ > git rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/vinaykumarsrs/gh_cen.git # timeout=10
+Fetching upstream changes from https://github.com/vinaykumarsrs/gh_cen.git
+ > git --version # timeout=10
+using GIT_ASKPASS to set credentials 
+ > git fetch --tags --progress https://github.com/vinaykumarsrs/gh_cen.git +refs/heads/*:refs/remotes/origin/*
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+Checking out Revision ed9644a58cfcc592e1e01e8619be316c50faaf0e (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f ed9644a58cfcc592e1e01e8619be316c50faaf0e
+Commit message: "launch file"
+ > git rev-list --no-walk 26bcc2ea4b351951ca14d03933d2300cbb42837d # timeout=10
+[ABC makebuilder] $ /bin/sh -xe /tmp/jenkins3825330871561597110.sh
++ sudo bash launch.sh
+
+We trust you have received the usual lecture from the local System
+Administrator. It usually boils down to these three things:
+
+    #1) Respect the privacy of others.
+    #2) Think before you type.
+    #3) With great power comes great responsibility.
+
+sudo: no tty present and no askpass program specified
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

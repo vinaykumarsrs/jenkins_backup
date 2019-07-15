@@ -1,0 +1,22 @@
+commit 2b91690a69c318bb064c89d1477fa4411d78c9e6
+tree 78a9d5e63fb24d3b30da09a039929a0f10c5c1ec
+parent 5774de1acfcf119d2fbf6c158029258945241d88
+author ec2-user <vincupsc@gmail.com> 2019-07-13 19:11:48 +0000
+committer ec2-user <vincupsc@gmail.com> 2019-07-13 19:11:48 +0000
+
+    Triggering jenkins. How cool is that
+
+
+
+:000000 100644 0000000000000000000000000000000000000000 5a73da1049823d5946c2e1aa378294dff8682dd3 A	trigger
+commit 5774de1acfcf119d2fbf6c158029258945241d88
+tree ca04c19bae10023fe010fd18825eaf8342912fc2
+parent a345a040d03d676e7ceec2503cd76473a730844c
+author ec2-user <vincupsc@gmail.com> 2019-07-13 17:38:37 +0000
+committer ec2-user <vincupsc@gmail.com> 2019-07-13 17:38:37 +0000
+
+    hooked
+
+
+
+:100644 100644 4adccce821c9b27189e353ddb385b7d42a4c84c9 d345da7336621ecef853e36f2408f4d2df33fa73 M	catfile

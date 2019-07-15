@@ -1,0 +1,27 @@
+Started by GitHub push by vinaykumarsrs
+Started by GitHub push by vinaykumarsrs
+Running as SYSTEM
+Building on master in workspace /var/lib/jenkins/workspace/ABC_Build
+using credential 4cbf2f63-18c8-429d-b296-379d2d88f5d7
+ > git rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/vinaykumarsrs/gh_cen.git # timeout=10
+Fetching upstream changes from https://github.com/vinaykumarsrs/gh_cen.git
+ > git --version # timeout=10
+using GIT_ASKPASS to set credentials 
+ > git fetch --tags --progress https://github.com/vinaykumarsrs/gh_cen.git +refs/heads/*:refs/remotes/origin/*
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+Checking out Revision ed3f3e890cc615dc6a74c1ccf72ac0ac94cc3792 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f ed3f3e890cc615dc6a74c1ccf72ac0ac94cc3792
+Commit message: "Delete launch.sh"
+ > git rev-list --no-walk 7aa4d9269949ae9ee7abdee0c88d3c43cd14c796 # timeout=10
+[ABC_Build] $ /bin/sh -xe /tmp/jenkins3245577228510724903.sh
++ make
+gcc main.c bigg3.c fact.c -o ABC.exe
++ echo 'TRIGGERED JENKINS FROM GITHUB'
+TRIGGERED JENKINS FROM GITHUB
++ echo 'HOW COOOOL IS THAT!!!!!!!!!!!'
+HOW COOOOL IS THAT!!!!!!!!!!!
+Finished: SUCCESS
