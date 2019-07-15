@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-07-11 07:12:27.515 UTC</timestamp>
+  <md5sum>7b880c7b3cfcf0455054a2a1ee45a774</md5sum>
+  <fileName>Credential id=7c00d2cd-d6a5-4c75-bc95-ffa44c4f2ea0 name=vinayvinc/****** (credential description for job1)</fileName>
+  <usages>
+    <entry>
+      <string>job1</string>
+      <ranges>1-194</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

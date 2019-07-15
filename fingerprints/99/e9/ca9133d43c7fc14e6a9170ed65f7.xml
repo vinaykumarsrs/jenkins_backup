@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-07-11 11:18:26.725 UTC</timestamp>
+  <md5sum>99e9ca9133d43c7fc14e6a9170ed65f7</md5sum>
+  <fileName>Credential id=4cbf2f63-18c8-429d-b296-379d2d88f5d7 name=vinayvinc/******</fileName>
+  <usages>
+    <entry>
+      <string>ABC_Build</string>
+      <ranges>8-31</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
